@@ -29,7 +29,7 @@ while True:
 
     print("\nControl de gastos")
     print("1 Registrar gasto")
-    print("2 Ver total")
+    print("2 Ver total gastado")
     print("3 Buscar por placa")
     print("4 Salir")
 
